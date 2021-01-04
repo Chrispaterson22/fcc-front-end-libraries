@@ -1,0 +1,9 @@
+const JSX = <div>
+                <h1>This is a JSX element</h1>
+                <p>Just getting used to this</p>
+                <ul>
+                    <li>HTML & CSS</li>
+                    <li>JavaScript</li>
+                    <li>React</li>
+                </ul>
+            </div>
